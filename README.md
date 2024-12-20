@@ -71,9 +71,7 @@ I am from Egypt, Cairo, Qalyubia Governorate.</h3>
 
 
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ma2707sa&show_icons=true&locale=en" alt="ma2707sa" />
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ma2707sa&" alt="ma2707sa" />
